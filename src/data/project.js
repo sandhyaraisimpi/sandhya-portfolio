@@ -24,12 +24,12 @@ export const projects =[
         id: 1,
         title: 'E-Commerce Platform',
         description: 'Full-stack online shopping application with real-time inventory management, secure payment',
-        image:'/images/projects/project3.png',
+        image:'public/images/projects/project 4.png',
         category: 'Full Stack',
         technologies: ['React', 'Node.js', 'MongoDB', 'Stripe'],
         metrics: '40% increase in conversion',
        // demoUrl: 'https://timetoprogram.com/projects',
-        githubUrl: 'https://github.com'
+        githubUrl: 'https://github.com/sandhyaraisimpi/clothing-fork.git'
     },
     //  {
     //     id: 2,
@@ -53,28 +53,28 @@ export const projects =[
     metrics: 'Task Tracking & Productivity Management',
     githubUrl: 'https://github.com/sandhyaraisimpi/SandhyaTask.git'
 },
-     {
-        id: 4,
-        title: 'Social Media Analytics',
-        description: 'Real-time social media analytics dashboard with data visualization, sentiment analysis and many more..',
-        image:'/images/projects/project5.png',
-        category: 'Web Apps',
-        technologies: ['Next.js', 'Chart.js', 'PostgreSQL', 'Redis'],
-        metrics: '10+ data points/day',
-       // demoUrl: 'https://timetoprogram.com/projects',
-        githubUrl: 'https://github.com'
-    },
-     {
-        id: 5,
-        title: 'Weather Forecast App',
-        description: 'Beautiful weather application with hourly forecast, interactive maps, and location-based temperature prediction and many more...',
-        image:'/images/projects/project4.png',
-        category: 'Full Stack',
-        technologies: ['React', 'OpenWeather API', 'Mapbox', 'Tailwind'],
-        metrics: '95% accuracy rate',
-       // demoUrl: 'https://timetoprogram.com/projects',
-        githubUrl: 'https://github.com'
-    },
+    //  {
+    //     id: 4,
+    //     title: 'Social Media Analytics',
+    //     description: 'Real-time social media analytics dashboard with data visualization, sentiment analysis and many more..',
+    //     image:'/images/projects/project5.png',
+    //     category: 'Web Apps',
+    //     technologies: ['Next.js', 'Chart.js', 'PostgreSQL', 'Redis'],
+    //     metrics: '10+ data points/day',
+    //    // demoUrl: 'https://timetoprogram.com/projects',
+    //     githubUrl: 'https://github.com'
+    // },
+    //  {
+    //     id: 5,
+    //     title: 'Weather Forecast App',
+    //     description: 'Beautiful weather application with hourly forecast, interactive maps, and location-based temperature prediction and many more...',
+    //     image:'/images/projects/project4.png',
+    //     category: 'Full Stack',
+    //     technologies: ['React', 'OpenWeather API', 'Mapbox', 'Tailwind'],
+    //     metrics: '95% accuracy rate',
+    //    // demoUrl: 'https://timetoprogram.com/projects',
+    //     githubUrl: 'https://github.com'
+    // },
      {
         id: 6,
         title: 'Portfolio Template',
@@ -84,7 +84,7 @@ export const projects =[
         technologies: ['React', 'Framer Motion', 'Tailwind', 'vite'],
         metrics: '2k+ GitHub stars',
        // demoUrl: 'https://timetoprogram.com/projects',
-        githubUrl: 'https://github.com'
+        githubUrl: 'https://github.com/sandhyaraisimpi/sandhya-portfolio.git'
     },
 ];
 
